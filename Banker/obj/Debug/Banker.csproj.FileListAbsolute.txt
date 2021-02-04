@@ -1,0 +1,58 @@
+C:\Users\Desktop\source\repos\Banker\bin\Debug\Banker.exe.config
+C:\Users\Desktop\source\repos\Banker\bin\Debug\Banker.exe
+C:\Users\Desktop\source\repos\Banker\bin\Debug\Banker.pdb
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.Form1.resources
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.Properties.Resources.resources
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.csproj.GenerateResource.cache
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.exe
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.pdb
+C:\Users\Desktop\source\repos\Banker\bin\Debug\EntityFramework.dll
+C:\Users\Desktop\source\repos\Banker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Desktop\source\repos\Banker\bin\Debug\EntityFramework.xml
+C:\Users\Desktop\source\repos\Banker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.csproj.CopyComplete
+C:\Users\Desktop\source\repos\Banker\obj\Debug\Banker.searchFrom.resources
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.Form1.resources
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.Properties.Resources.resources
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.searchFrom.resources
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.exe
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.pdb
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.accountForm.resources
+C:\Users\DELL\Downloads\Banker (1)\Banker\bin\Debug\Banker.exe.config
+C:\Users\DELL\Downloads\Banker (1)\Banker\bin\Debug\Banker.exe
+C:\Users\DELL\Downloads\Banker (1)\Banker\bin\Debug\Banker.pdb
+C:\Users\DELL\Downloads\Banker (1)\Banker\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\Banker (1)\Banker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Banker (1)\Banker\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\Banker (1)\Banker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.csproj.CopyComplete
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.LoginPage.resources
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.CreateCustomerAccount.resources
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.EmployeePage.resources
+C:\Users\DELL\Downloads\Banker (1)\Banker\obj\Debug\Banker.CreateEmployeeAccount.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\bin\Debug\Banker.exe.config
+C:\Users\Cenk\Downloads\BankerFinal\Banker\bin\Debug\Banker.exe
+C:\Users\Cenk\Downloads\BankerFinal\Banker\bin\Debug\Banker.pdb
+C:\Users\Cenk\Downloads\BankerFinal\Banker\bin\Debug\EntityFramework.dll
+C:\Users\Cenk\Downloads\BankerFinal\Banker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cenk\Downloads\BankerFinal\Banker\bin\Debug\EntityFramework.xml
+C:\Users\Cenk\Downloads\BankerFinal\Banker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.csprojAssemblyReference.cache
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.accountForm.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.CreateCustomerAccount.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.CreateEmployeeAccount.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.EmployeePage.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.Form1.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.LoginPage.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.Properties.Resources.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.searchFrom.resources
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.csproj.GenerateResource.cache
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.csproj.CoreCompileInputs.cache
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.csproj.CopyComplete
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.exe
+C:\Users\Cenk\Downloads\BankerFinal\Banker\obj\Debug\Banker.pdb
