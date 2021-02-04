@@ -8,5 +8,9 @@ Bank Management System
 Developers
 
 Ali Cenk Turpculu
+
+
 İlayda Mutlu
+
+
 Pelinsu Arslan
